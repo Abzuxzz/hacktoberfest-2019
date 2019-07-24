@@ -1,3 +1,13 @@
+#### Name: [Muhammad Azhar Najib](https://github.com/1heBadFaith)
+- Place: Depok, Jawabarat, Indonesia
+- Bio: Student at IDN Boarding School
+- GitHub: [Muhammad Azhar](https://github.com/1heBadFaith)
+
+#### Name: [Abdullah Sulam](https://github.com/Abzuxzz)
+- Place: Depok, Jawabarat, Indonesia
+- Bio: Student at IDN Boarding School
+- GitHub: [Abdullah](https://github.com/Abzuxzz)
+
 #### Name: [James Anderson](https://github.com/moodiest)
 - Place: Huddersfield, Yorkshire, United Kingdom
 - Bio: Cryptocurrency Enthusiast.
